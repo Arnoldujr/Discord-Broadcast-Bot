@@ -1,0 +1,4 @@
+{
+  "delayBetweenMessagesMs": 2000,
+  "concurrency": 2
+}

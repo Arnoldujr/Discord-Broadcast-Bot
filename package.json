@@ -1,0 +1,12 @@
+{
+  "name": "multi-token-broadcaster",
+  "version": "1.0.0",
+  "description": "Multi-token Discord broadcast.",
+  "main": "index.js",
+  "author": "Arnold",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "14.26.4",
+    "dotenv": "17.4.2"
+  }
+}
