@@ -110,8 +110,8 @@ Arizona-Broadcast
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd Arizona-Broadcast
+git clone https://github.com/Arnoldujr/Discord-Broadcast-Bot.git
+cd Discord-Broadcast-Bot
 ```
 
 Install dependencies:
@@ -126,6 +126,7 @@ Configure environment:
 TOKEN_1=
 TOKEN_2=
 TOKEN_3=
+etc...
 ```
 
 Start application:
